@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* I am currently pursing a degree at Rollins College.
+* Currently pursing a degree at Rollins College.
    * Graduating May 2024
    * Majoring in Computer Science and Minoring in Business Management
 * 📫 How to reach me
