@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Philip Clarke
 
 * I am currently pursing a degree at Rollins College.
-   * I plan to graduate in May 2024 with a Computer Science Major and Business Management minor
+   * Graduating May 2024
+   * Majoring in Computer Science and Minoring in Business Management
 * 📫 How to reach me
    * [clarkep19@gmail.com](mailto:clarkep19@gmail.com)
 
