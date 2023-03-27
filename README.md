@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Philip Clarke
+
+* I am currently pursing a degree at Rollins College.
+   * I plan to graduate in May 2024 with a Computer Science Major and Business Management minor
+* 📫 How to reach me
+   * [clarkep19@gmail.com](mailto:clarkep19@gmail.com)
 
 <!--
 **PhilipClarke1/PhilipClarke1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
