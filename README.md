@@ -1,4 +1,4 @@
-### Hi there 👋 I am Philip Clarke
+### Hi there 👋
 
 * I am currently pursing a degree at Rollins College.
    * Graduating May 2024
