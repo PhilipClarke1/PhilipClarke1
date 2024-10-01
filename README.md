@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Currently pursuing MS Information Systems & Operations Management at the Univeristy of Flordia.
+* Currently pursuing MS Information Systems & Operations Management at the Univeristy of Florida.
    * Graduating Decemeber 2025
    * Rollins College Graduate. Computer Science and Business Management
 * 📫 How to reach me
