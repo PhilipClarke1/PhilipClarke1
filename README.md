@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * Currently pursuing MS Information Systems & Operations Management at the University of Florida.
-   * Graduating Decemeber 2025
+   * Graduating May 2026
 * Rollins College Graduate. Computer Science and Business Management
 * 📫 How to reach me
    * [clarkep19@gmail.com](mailto:clarkep19@gmail.com)
